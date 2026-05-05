@@ -6,16 +6,25 @@ A full-featured web application for an online café where users can browse the m
 
 - Browse café menu with categories
 - User registration and login
+<<<<<<< HEAD
 - Add products to shopping cart
 - Place and track orders
 - Admin panel (Django default) for managing products and orders
+=======
+- Place orders
+- Admin panel (Django default) for managing products and orders
+- Responsive UI using CSS media queries
+>>>>>>> 8067a17 (Update README with responsive design info)
 
 ## 🛠️ Technologies Used
 
 - Python 3 & Django (Backend)
 - HTML5, CSS3 (Frontend)
 - SQLite (Database)
+<<<<<<< HEAD
 - Bootstrap (Responsive design)
+=======
+>>>>>>> 8067a17 (Update README with responsive design info)
 
 ## 🚀 Installation & Setup
 
