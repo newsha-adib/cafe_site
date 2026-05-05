@@ -21,31 +21,36 @@ A full-featured web application for an online café where users can browse the m
 
 Clone the repository:
 --------------------------------
+```bash
 git clone https://github.com/newsha-adib/cafe_site.git
 cd cafe_site
-
+```
 Create and activate virtual environment:
 ----------------------------------------
+```bash
 python -m venv venv
 
-Linux / Mac:
+#Linux / Mac:
 source venv/bin/activate
 
-Windows:
+#Windows:
 venv\Scripts\activate
-
+```
 Install dependencies:
 ---------------------
+```bash
 pip install -r requirements.txt
-
+```
 Apply migrations:
 -----------------
+```bash
 python manage.py migrate
-
+```
 Run development server:
 -----------------------
+```bash
 python manage.py runserver
-
+```
 Open in browser:
 ----------------
 http://127.0.0.1:8000
