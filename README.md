@@ -51,7 +51,7 @@ Open in browser:
 http://127.0.0.1:8000
 
 ## 👩‍💻 Project Structure
-
+```text
 cafe_site/
 │
 ├── cafe/          # Main app for café and menu management
@@ -64,7 +64,7 @@ cafe_site/
 ├── manage.py
 ├── requirements.txt
 └── db.sqlite3     # Local development database
-
+```
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
